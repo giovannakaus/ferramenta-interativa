@@ -1,12 +1,12 @@
 :root {
     --text-color: #0a3870;
     --card-front-color: #dbdfb6;
-    --card-back-color: #662069;
+    --card-back-color: #33963b;
     }
 
 
 body {
-    background-color:lightpink
+    background-color:rgb(155, 92, 102)
 }
 
 #container {
